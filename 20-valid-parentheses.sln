@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{CE0AB506-26D3-4CCD-BD85-B3A6400AEA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zolution", "zolution\zolution.csproj", "{64E4B219-59E5-4605-ACDE-A0F743BA5270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0AB506-26D3-4CCD-BD85-B3A6400AEA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0AB506-26D3-4CCD-BD85-B3A6400AEA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0AB506-26D3-4CCD-BD85-B3A6400AEA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0AB506-26D3-4CCD-BD85-B3A6400AEA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E4B219-59E5-4605-ACDE-A0F743BA5270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E4B219-59E5-4605-ACDE-A0F743BA5270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E4B219-59E5-4605-ACDE-A0F743BA5270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E4B219-59E5-4605-ACDE-A0F743BA5270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
